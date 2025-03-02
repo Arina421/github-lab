@@ -1,6 +1,4 @@
 <<<<<<< HEAD
 hello
 =======
-hello i like cats
-I also like dogs
->>>>>>> decb9f55912f61256736426e07de96b21c898178
+hello hi
